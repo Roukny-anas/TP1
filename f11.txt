@@ -1,0 +1,16 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est EA5B-2AD8
+
+ R‚pertoire de C:\ateliers\app1
+
+17/03/2024  21:40    <DIR>          .
+17/03/2024  17:17    <DIR>          ..
+17/03/2024  18:04               593 f1.txt
+17/03/2024  21:40                 0 f11.txt
+17/03/2024  17:56               453 f2.txt
+17/03/2024  17:56               497 f3.txt
+17/03/2024  17:57               541 f4.txt
+17/03/2024  17:57               585 f5.txt
+17/03/2024  17:38               365 fichier1.txt
+               7 fichier(s)            3ÿ034 octets
+               2 R‚p(s)  31ÿ008ÿ890ÿ880 octets libres
